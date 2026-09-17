@@ -1,0 +1,2232 @@
+{
+  "reviewed_at": "2026-09-17",
+  "status_counts": {
+    "not_reviewed": 134,
+    "watchlist": 16,
+    "excluded_from_core": 4,
+    "deep_dive": 8,
+    "identity_unverified": 2
+  },
+  "note": "Only deep_dive apps have full report comparisons; watchlist entries are initial leads. Other candidates are explicitly unreviewed.",
+  "apps": [
+    {
+      "app_id": 308034723,
+      "storefront": "us",
+      "name": "BrainWave: Altered States ™",
+      "developer": "Banzai Labs",
+      "official_category": "Lifestyle",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 450655712,
+      "storefront": "us",
+      "name": "Brainwaves -- Binaural Beats",
+      "developer": "iMobLife Inc.",
+      "official_category": "Productivity",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 493145008,
+      "storefront": "us",
+      "name": "Headspace: Sleep & Meditation",
+      "developer": "Headspace Inc.",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 511269223,
+      "storefront": "us",
+      "name": "Figure - Make Music & Beats",
+      "developer": "Reason Studios AB",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 571800810,
+      "storefront": "us",
+      "name": "Calm",
+      "developer": "Calm.com",
+      "official_category": "Health & Fitness",
+      "status": "watchlist",
+      "reason": "睡眠/放松替代方案；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 584557117,
+      "storefront": "us",
+      "name": "Napster - AI Music & Experts",
+      "developer": "Rhapsody International Inc.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 715257165,
+      "storefront": "us",
+      "name": "Add music to videos!",
+      "developer": "LatentApps Company Limited",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 804913240,
+      "storefront": "us",
+      "name": "Rapchat: Music Maker Studio",
+      "developer": "Rapchat, Inc.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 838752522,
+      "storefront": "us",
+      "name": "Binaural Beats: Sleep & Heal",
+      "developer": "App Nursery",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 844928276,
+      "storefront": "us",
+      "name": "MakeMyMovie-Movie maker",
+      "developer": "out thinking limited",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 880929886,
+      "storefront": "us",
+      "name": "Music Maker JAM",
+      "developer": "Loudly GmbH",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 881323364,
+      "storefront": "us",
+      "name": "Video Merger Pro-music editor",
+      "developer": "out thinking limited",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 887153944,
+      "storefront": "us",
+      "name": "Pro Editor - Video Maker for FaceBook & Youtube",
+      "developer": "Nguyen Nam Giang",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 940268124,
+      "storefront": "us",
+      "name": "Medly",
+      "developer": "Medly Labs Inc.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 947792997,
+      "storefront": "us",
+      "name": "Add Music to Video Editor",
+      "developer": "Add Music to Video Maker & Editor LLC",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 968585775,
+      "storefront": "us",
+      "name": "BandLab – Music Maker & Beats",
+      "developer": "BandLab Singapore Pte Ltd",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "音乐制作替代方案；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 968720724,
+      "storefront": "us",
+      "name": "Noxogy : Sleep Tracker Sounds",
+      "developer": "Apirox, s.r.o.",
+      "official_category": "Medical",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 991031323,
+      "storefront": "us",
+      "name": "Soundtrap: Music Making Studio",
+      "developer": "Soundtrap",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1006639052,
+      "storefront": "us",
+      "name": "Add Background Music To Video",
+      "developer": "Mosaic S.r.l.",
+      "official_category": "Photo & Video",
+      "status": "watchlist",
+      "reason": "视频配乐工具；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1037738003,
+      "storefront": "us",
+      "name": "Add Music to Video, Maker",
+      "developer": "Alan Cushway",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1042901784,
+      "storefront": "us",
+      "name": "Video Cache - Editor & Maker",
+      "developer": "Tu Anh Do",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1072337393,
+      "storefront": "us",
+      "name": "Add Music to Video :cut editor",
+      "developer": "Editr Apps Inc.",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1077776989,
+      "storefront": "us",
+      "name": "TIDE: Sleep, Focus, Meditation",
+      "developer": "Moreless, Inc.",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1083248251,
+      "storefront": "us",
+      "name": "White Noise Deep Sleep Sounds",
+      "developer": "Slumber Studios, LLC",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1109543953,
+      "storefront": "us",
+      "name": "Slumber－Calm Stories for Sleep",
+      "developer": "Slumber Studios, LLC",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1110684238,
+      "storefront": "us",
+      "name": "Brain.fm: Focus & Sleep Music",
+      "developer": "Brain.fm",
+      "official_category": "Productivity",
+      "status": "watchlist",
+      "reason": "功能性音乐替代方案；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1130726632,
+      "storefront": "us",
+      "name": "Tize: Music & Beat Maker",
+      "developer": "SoundWare, Inc.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1148312559,
+      "storefront": "us",
+      "name": "Sleep Sounds & White Noise",
+      "developer": "ZipoApps",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1190294015,
+      "storefront": "us",
+      "name": "Meditopia: Sleep, Meditation",
+      "developer": "YEDI70 YAZILIM VE BILGI TEKNOLOJILERI ANONIM SIRKETI",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1225801099,
+      "storefront": "us",
+      "name": "Sensate: Stress/Anxiety Relief",
+      "developer": "Bioself Technology Ltd",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1280782358,
+      "storefront": "us",
+      "name": "单词争霸",
+      "developer": "Bookplay Research Institute of Technology Co.,ltd",
+      "official_category": "Education",
+      "status": "excluded_from_core",
+      "reason": "词汇教育应用，与本轮音乐任务无关",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1346247457,
+      "storefront": "us",
+      "name": "Endel: Focus & Sleep Sounds",
+      "developer": "Endel",
+      "official_category": "Health & Fitness",
+      "status": "deep_dive",
+      "reason": "相邻：功能性声音",
+      "analyst_segments": [
+        "专注/睡眠声音"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1362013798,
+      "storefront": "us",
+      "name": "Beat Maker Pro: Music drum Pad",
+      "developer": "MWM",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1435908315,
+      "storefront": "us",
+      "name": "Drum Machine - Music Maker",
+      "developer": "MWM",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1436994560,
+      "storefront": "us",
+      "name": "Portal - Escape Into Nature",
+      "developer": "Portal Labs Ltd",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1438806137,
+      "storefront": "us",
+      "name": "Vocal Extractor -Karaoke maker",
+      "developer": "Hikaru Tsuyumine",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1454398991,
+      "storefront": "us",
+      "name": "Groovepad - Music & Beat Maker",
+      "developer": "Easybrain Ltd",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1460664069,
+      "storefront": "us",
+      "name": "Music Alarm Clock for Spotify",
+      "developer": "Make It Count LTD",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1463548238,
+      "storefront": "us",
+      "name": "Beatwave - Music Made Easy",
+      "developer": "MWM",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1485347400,
+      "storefront": "us",
+      "name": "Ringtone Maker for iPhone!",
+      "developer": "Fonts, Ltd.",
+      "official_category": "Utilities",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1488724463,
+      "storefront": "us",
+      "name": "STRIKE: Buy & Hold Bitcoin",
+      "developer": "Zap Solutions, Inc",
+      "official_category": "Finance",
+      "status": "excluded_from_core",
+      "reason": "比特币应用，与本轮音乐任务无关",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1509084936,
+      "storefront": "us",
+      "name": "SLEEP by Max Richter",
+      "developer": "U-Apps",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1515796612,
+      "storefront": "us",
+      "name": "Moises: The Musician's App",
+      "developer": "Moises Systems, Inc",
+      "official_category": "Music",
+      "status": "deep_dive",
+      "reason": "相邻：分轨/练习",
+      "analyst_segments": [
+        "分轨",
+        "练习"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1540760679,
+      "storefront": "us",
+      "name": "Vocal Separator - Audio Editor",
+      "developer": "文娟 林",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1574328910,
+      "storefront": "us",
+      "name": "Go Beat • Music & Sound Maker",
+      "developer": "BH SPACE LTD",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1575610270,
+      "storefront": "us",
+      "name": "Unmix AI Voice Drums Extractor",
+      "developer": "Beat Squad LLC",
+      "official_category": "Utilities",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1582604840,
+      "storefront": "us",
+      "name": "AudioRetune: AI Vocal Remover",
+      "developer": "Attentif, Inc.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1583909451,
+      "storefront": "us",
+      "name": "2023 Top Ringtones & Wallpaper",
+      "developer": "First Entertainment Studio",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1587389494,
+      "storefront": "us",
+      "name": "BlueNote – AI Vocal Remover",
+      "developer": "Coda Labs Incorporated",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1587703641,
+      "storefront": "us",
+      "name": "Music Making Studio • Sampler",
+      "developer": "BH SPACE LTD",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1589068976,
+      "storefront": "us",
+      "name": "Vocal Remover: Music Separator",
+      "developer": "Vividup FZE",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1595494271,
+      "storefront": "us",
+      "name": "Music Speed Changer ▶▶▶",
+      "developer": "Single Minded Productions, LLC",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1596495598,
+      "storefront": "us",
+      "name": "Stemz: remover vocal audio pro",
+      "developer": "MWM",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "分轨工具；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1596929185,
+      "storefront": "us",
+      "name": "Lola: Stream Lofi Music",
+      "developer": "U-Apps",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1602757597,
+      "storefront": "us",
+      "name": "AI Vocal Remover - unMix",
+      "developer": "AppSmartz",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1658257567,
+      "storefront": "us",
+      "name": "ColorSleep: Green, Brown Noise",
+      "developer": "EaseHere Limited",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 1669070669,
+      "storefront": "us",
+      "name": "AI Music Maker - Melodia",
+      "developer": "APPNATION YAZILIM HIZMETLERI TICARET ANONIM SIRKETI",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6443542020,
+      "storefront": "us",
+      "name": "LANDR - For Music Makers",
+      "developer": "LANDR Audio Inc.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6443918196,
+      "storefront": "us",
+      "name": "TrackSplit-Audio Splitter",
+      "developer": "广州黑狐网络科技有限公司",
+      "official_category": "Productivity",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6444504024,
+      "storefront": "us",
+      "name": "Music Maker: AI Song Generator",
+      "developer": "Beijing Zhizhou Weilai Technology Co., Ltd.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6445834048,
+      "storefront": "us",
+      "name": "Splitteroo: Vocal Remover",
+      "developer": "Music4Fun LLC",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "分轨工具；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6447001239,
+      "storefront": "us",
+      "name": "MyTunes : AI Music Generator",
+      "developer": "HUBX",
+      "official_category": "Music",
+      "status": "deep_dive",
+      "reason": "直接：生成/声音",
+      "analyst_segments": [
+        "整曲生成",
+        "翻唱",
+        "音乐视频"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6447696368,
+      "storefront": "us",
+      "name": "AI Music Maker & Voice Changer",
+      "developer": "APPWINGS Ltd",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6447762362,
+      "storefront": "us",
+      "name": "ADHD Sound App: Sleep, Focus",
+      "developer": "EaseHere Limited",
+      "official_category": "Medical",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6448311069,
+      "storefront": "us",
+      "name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "official_category": "Productivity",
+      "status": "excluded_from_core",
+      "reason": "通用助手，暂不纳入独立音乐应用核心比较",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6448696426,
+      "storefront": "us",
+      "name": "AI Music & Song Generator *",
+      "developer": "Bon App & T",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6452017015,
+      "storefront": "us",
+      "name": "Banger: AI Music Generator",
+      "developer": "42 Digital",
+      "official_category": "Music",
+      "status": "deep_dive",
+      "reason": "直接：翻唱/生成",
+      "analyst_segments": [
+        "整曲生成",
+        "翻唱"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6454900712,
+      "storefront": "us",
+      "name": "VoiceFame: AI Cover Songs &Fun",
+      "developer": "Cheukchung Cheung",
+      "official_category": "Entertainment",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6461268224,
+      "storefront": "us",
+      "name": "Voices AI: Change Your Voice",
+      "developer": "Fiedler Tech LLC",
+      "official_category": "Productivity",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6468002313,
+      "storefront": "us",
+      "name": "Brainpal: Heal & Meditation",
+      "developer": "Three Jiaren Limited",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6468774263,
+      "storefront": "us",
+      "name": "Music AI Cover: Banger & Songs",
+      "developer": "Mobilion",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6470182519,
+      "storefront": "us",
+      "name": "SingUp: AI Music Generator",
+      "developer": "MelodyStep",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6470238006,
+      "storefront": "us",
+      "name": "Flibbo - AI Video Image Music",
+      "developer": "SOFYO DIJITAL",
+      "official_category": "Productivity",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6472720740,
+      "storefront": "us",
+      "name": "Coveroke – AI singing voice",
+      "developer": "Daniil Dkhavan",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6474932697,
+      "storefront": "us",
+      "name": "Songy: AI Voice & Music Cover",
+      "developer": "Aliona Grigorieva",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6475776854,
+      "storefront": "us",
+      "name": "AI Songs:",
+      "developer": "兰 李",
+      "official_category": "Utilities",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6477489729,
+      "storefront": "us",
+      "name": "Google Gemini",
+      "developer": "Google",
+      "official_category": "Productivity",
+      "status": "excluded_from_core",
+      "reason": "通用助手，暂不纳入独立音乐应用核心比较",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6477824849,
+      "storefront": "us",
+      "name": "Banger for Artists: AI Music",
+      "developer": "42 Digital",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6478600585,
+      "storefront": "us",
+      "name": "Cover AI: Any Song, Your Voice",
+      "developer": "Apptribe Dijital Hizmetler Limited Sirketi",
+      "official_category": "Entertainment",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6479740642,
+      "storefront": "us",
+      "name": "VocalMe: AI Music Generator",
+      "developer": "Luckon",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "声音/音乐生成；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6480136315,
+      "storefront": "us",
+      "name": "Suno - AI Songs, Music, Lyrics",
+      "developer": "Suno, Inc.",
+      "official_category": "Music",
+      "status": "deep_dive",
+      "reason": "直接：整曲/编辑基准",
+      "analyst_segments": [
+        "整曲生成",
+        "歌曲编辑",
+        "社区收听"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6482289804,
+      "storefront": "us",
+      "name": "Donna AI Song & Music Maker",
+      "developer": "MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI",
+      "official_category": "Music",
+      "status": "deep_dive",
+      "reason": "直接：生成/翻唱/视频",
+      "analyst_segments": [
+        "整曲生成",
+        "翻唱",
+        "音乐视频"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6484594285,
+      "storefront": "us",
+      "name": "Sonus AI: AI Song Creator",
+      "developer": "延恒 张",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6489035718,
+      "storefront": "us",
+      "name": "AI Song: AI Music Generator",
+      "developer": "YAHOR VALATKOVICH",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6499126830,
+      "storefront": "us",
+      "name": "AI Music Video Generator・Shoom",
+      "developer": "TECH ALPHA DMCC",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "音乐视频交付；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6499261254,
+      "storefront": "us",
+      "name": "AI Song Generator - Zona",
+      "developer": "Madduck",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "整曲生成；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502046156,
+      "storefront": "us",
+      "name": "AI Music Generator Song Cover",
+      "developer": "INNOVATIVE DIGITAL TECHNOLOGIES LIMITED",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502402689,
+      "storefront": "us",
+      "name": "AI Cover Songs : Music AI",
+      "developer": "VITAL APPTECH",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502419500,
+      "storefront": "us",
+      "name": "AI Song Maker ・Music Generator",
+      "developer": "Anil Akkaya",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502530415,
+      "storefront": "us",
+      "name": "AI Song Music Generator: Muzio",
+      "developer": "Scale Dreams LLC",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "整曲生成；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502600539,
+      "storefront": "us",
+      "name": "Amper Music: AI Song Generator",
+      "developer": "Aliaksandr Tsvirko",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502656704,
+      "storefront": "us",
+      "name": "AI Song Generator: Mozart",
+      "developer": "NineG",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "整曲生成；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502831951,
+      "storefront": "us",
+      "name": "AI Cover – Hit Songs Creator",
+      "developer": "PaoApps",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502906463,
+      "storefront": "us",
+      "name": "AI Song Maker - Soniva Music",
+      "developer": "Gotech Dijital Hizmetler Anonim Sirketi",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "整曲生成；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6502918873,
+      "storefront": "us",
+      "name": "Aiva AI : AI Music Generator",
+      "developer": "Rustem Akhmetov",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6503041526,
+      "storefront": "us",
+      "name": "Muxa-AI Music SongMaker",
+      "developer": "Hangzhou Xinglu Network Information Technology Co., Ltd.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6503419010,
+      "storefront": "us",
+      "name": "Deeptone- AI Duet Songs",
+      "developer": "HAPPY AI INC.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6503628462,
+      "storefront": "us",
+      "name": "MIA: AI Song Generator",
+      "developer": "Going Merry LLC",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6503645134,
+      "storefront": "us",
+      "name": "Sona: AI Music & Cover Maker",
+      "developer": "SUNRAY MOBILE LTD",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6504490347,
+      "storefront": "us",
+      "name": "AI Music - Generator",
+      "developer": "Video Bakery Ltd.",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "整曲生成；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6511211165,
+      "storefront": "us",
+      "name": "Udio: AI Music Maker & Studio",
+      "developer": "Uncharted Labs Inc.",
+      "official_category": "Music",
+      "status": "deep_dive",
+      "reason": "直接：创作/编辑",
+      "analyst_segments": [
+        "整曲生成",
+        "歌曲编辑"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6529535168,
+      "storefront": "us",
+      "name": "AI Music: Cover & Song Maker",
+      "developer": "Comapps LLC",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "翻唱与整曲生成；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6538716087,
+      "storefront": "us",
+      "name": "AI Cover - AI Song Generator",
+      "developer": "AI DYNAMICS",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6547859531,
+      "storefront": "us",
+      "name": "AI Music Maker-AI Song Creator",
+      "developer": "BINIX LTD",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6563148997,
+      "storefront": "us",
+      "name": "AI Song Generator: Music Maker",
+      "developer": "嘉璐 陈",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6657991303,
+      "storefront": "us",
+      "name": "AI Cover: Song & Music Maker",
+      "developer": "Frank Harkin",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6664064716,
+      "storefront": "us",
+      "name": "AI Song Generator- Music Maker",
+      "developer": "荣元 林",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6670199973,
+      "storefront": "us",
+      "name": "Beatz: AI Song・Cover Generator",
+      "developer": "Conlan Limited",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6670252239,
+      "storefront": "us",
+      "name": "AI Song & Music Maker",
+      "developer": "Codewall Dijital Hizmetler Limited Sirketi",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6670403764,
+      "storefront": "us",
+      "name": "Song AI Maker: Generate Music",
+      "developer": "Song Synth LTD",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6670528749,
+      "storefront": "us",
+      "name": "AI Song Generator－Music Maker",
+      "developer": "Evoplex",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6677033144,
+      "storefront": "us",
+      "name": "Mureka: AI Radio & Music Maker",
+      "developer": "SKYWORK AI PTE LTD",
+      "official_category": "Music",
+      "status": "deep_dive",
+      "reason": "直接：创作/收听",
+      "analyst_segments": [
+        "整曲生成",
+        "社区收听",
+        "视频配乐"
+      ],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6733226170,
+      "storefront": "us",
+      "name": "AI Song Generator - Jukebox",
+      "developer": "TWOWISE",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6733240112,
+      "storefront": "us",
+      "name": "AI Song Generator Music Maker",
+      "developer": "庆栩 陈",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6736527031,
+      "storefront": "us",
+      "name": "AI Cover Generator - Tunero",
+      "developer": "Jale Balci",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6736849866,
+      "storefront": "us",
+      "name": "Rythmix - AI Music Generator",
+      "developer": "Vivalive(Hong Kong) Limited",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6736902166,
+      "storefront": "us",
+      "name": "Sonus AI Song Music Generator",
+      "developer": "MOBI AI LLC",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6737513883,
+      "storefront": "us",
+      "name": "AI Music・Own Voice Cover Maker",
+      "developer": "Appstrix",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6740287420,
+      "storefront": "us",
+      "name": "Suno AI: Instant Song Maker",
+      "developer": "Md Saidul Haque",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6740520755,
+      "storefront": "us",
+      "name": "AI Song Generator. Music maker",
+      "developer": "ZephyrLabs",
+      "official_category": "Entertainment",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6740915542,
+      "storefront": "us",
+      "name": "TuneCraft. AI Song Generator",
+      "developer": "Netastica Limited",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6741358133,
+      "storefront": "us",
+      "name": "Song GPT AI Song & Music Maker",
+      "developer": "Flick App",
+      "official_category": "Entertainment",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6741689757,
+      "storefront": "us",
+      "name": "Song Sift: Stem Splitter",
+      "developer": "Studio Sol Comunicacao Digital LTDA",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6742150522,
+      "storefront": "us",
+      "name": "Stem Split - AI Vocal Remover",
+      "developer": "Music AI Studio",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6742911616,
+      "storefront": "us",
+      "name": "Sona: AI Music & Song Maker",
+      "developer": "PLAYGROUND STUDIO LLC",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6743325248,
+      "storefront": "us",
+      "name": "MusicGPT - AI Song Generator",
+      "developer": "MusicGPT LLC",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "整曲生成，较小评分样本；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6744406259,
+      "storefront": "us",
+      "name": "KP - AI Music & Song Generator",
+      "developer": "Suzhou Siling Network Technology Co Ltd",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=background+music+maker&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6744467238,
+      "storefront": "us",
+      "name": "Stem Splitter & Song Recorder",
+      "developer": "Future Moments",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6746319213,
+      "storefront": "us",
+      "name": "Songs AI - AI Music Generator",
+      "developer": "Yaochih Net Limited",
+      "official_category": "Utilities",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6746701255,
+      "storefront": "us",
+      "name": "Video Audio Splitter MSV Remix",
+      "developer": "Future Moments",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6747242713,
+      "storefront": "us",
+      "name": "AI Music & Song Maker - Sonar",
+      "developer": "Hangzhou Lezhao Infinite Technology Co., Ltd.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6748336447,
+      "storefront": "us",
+      "name": "Biaura - Sleep & Focus Sounds",
+      "developer": "VoidWorks",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6749789657,
+      "storefront": "us",
+      "name": "Jamify - AI Song Generator",
+      "developer": "Mychaylo gerus-loukiachtchenko",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6749852909,
+      "storefront": "us",
+      "name": "Endel Rituals",
+      "developer": "Endel",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6749895552,
+      "storefront": "us",
+      "name": "Coverly: AI Song & Dance Maker",
+      "developer": "Hamak Games",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6751603247,
+      "storefront": "us",
+      "name": "AI Cover - Music Video",
+      "developer": "Osman Aksoy",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+cover&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6752844475,
+      "storefront": "us",
+      "name": "MuseO: AI Music Ringtone Maker",
+      "developer": "SEAMOBI TECH PTE LTD",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6754770956,
+      "storefront": "us",
+      "name": "Vocal Remover AI: Stems Lab",
+      "developer": "ERTUGRUL BULBUL",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6755925453,
+      "storefront": "us",
+      "name": "AI Music Generator・67Beat Song",
+      "developer": "Yelyzaveta Kosheva",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6755963473,
+      "storefront": "us",
+      "name": "Musicfy - AI Music Generator",
+      "developer": "Appzone Dijital Hizmetler Anonim Sirketi",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6757798726,
+      "storefront": "us",
+      "name": "Sound Music:AI Song Generator",
+      "developer": "健才 周",
+      "official_category": "Utilities",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6757855464,
+      "storefront": "us",
+      "name": "Noise Machine°",
+      "developer": "KARLIE ALEXIS KOWALSKA",
+      "official_category": "Health & Fitness",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6759739668,
+      "storefront": "us",
+      "name": "Lyrica: AI Song Generator",
+      "developer": "BULPARA TEKNOLOJI LIMITED SIRKETI",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6759912359,
+      "storefront": "us",
+      "name": "TrackPeel - AI Stem Splitter",
+      "developer": "Mateusz Kulinski",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6760206016,
+      "storefront": "us",
+      "name": "Sanctum: Focus, Sleep, Relax",
+      "developer": "Sanctum App",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Endel&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6760567949,
+      "storefront": "us",
+      "name": "Vocal Remover · Stem Splitter",
+      "developer": "Oleh Lohinov",
+      "official_category": "Utilities",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6760895854,
+      "storefront": "us",
+      "name": "AI Song Generator - Lyren",
+      "developer": "Maksim Pozniak",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6761585558,
+      "storefront": "us",
+      "name": "AI Vocal Remover-Stem Splitter",
+      "developer": "DIKTATORIAL Inc.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6762580115,
+      "storefront": "us",
+      "name": "StemLab: Stem Splitter, Vocals",
+      "developer": "Lauper Labs",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6767773635,
+      "storefront": "us",
+      "name": "Stem Splitter - Vocal Remover",
+      "developer": "BULPARA TEKNOLOJI LIMITED SIRKETI",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6769821246,
+      "storefront": "us",
+      "name": "Song Separator",
+      "developer": "Xssemble s.r.o.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6770908796,
+      "storefront": "us",
+      "name": "Suno Studio: AI Song Generator",
+      "developer": "BAFFOE HAIR SALON (PTY) LTD",
+      "official_category": "Music",
+      "status": "identity_unverified",
+      "reason": "名称含 Suno，但开发者与 Suno, Inc. 不同，官方关系未核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6771736157,
+      "storefront": "us",
+      "name": "AI Music by Suno Studio",
+      "developer": "TOY CASTLE SDN. BHD.",
+      "official_category": "Music",
+      "status": "identity_unverified",
+      "reason": "名称含 Suno，但开发者与 Suno, Inc. 不同，官方关系未核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6772271720,
+      "storefront": "us",
+      "name": "MonoBand: AI Stem Splitter",
+      "developer": "BOOMALAYA",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6775165802,
+      "storefront": "us",
+      "name": "Vocal Remover - SplitStem",
+      "developer": "Danil Chshavelev",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6775725040,
+      "storefront": "us",
+      "name": "SunoMV - AI Music Video Maker",
+      "developer": "Beijing Liqing Aijia Technology Co., Ltd.",
+      "official_category": "Photo & Video",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6778323922,
+      "storefront": "us",
+      "name": "Tune AI Music & Song Maker",
+      "developer": "Papcorns AŞ",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Mureka&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6778352218,
+      "storefront": "us",
+      "name": "Music & Song with Suno AI",
+      "developer": "CACTUS ROCK G.P.",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6778440600,
+      "storefront": "us",
+      "name": "AI Music · Song Generator",
+      "developer": "Appside Technologies LTD",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6779924860,
+      "storefront": "us",
+      "name": "SUMO AI: Music & Song Maker",
+      "developer": "Yunus Emre Caliskan",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=Suno&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6783070206,
+      "storefront": "us",
+      "name": "Stems: Split Songs and Vocals",
+      "developer": "PebbleLLC",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6783634629,
+      "storefront": "us",
+      "name": "Beats: AI Music Generator",
+      "developer": "Faraz Akhtar",
+      "official_category": "Music",
+      "status": "watchlist",
+      "reason": "整曲生成，低评分数样本；仅初筛，套餐/用户反馈待核实",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=ai+music&country=us&media=software&entity=software&limit=30",
+        "https://itunes.apple.com/search?term=ai+song+generator&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6788856619,
+      "storefront": "us",
+      "name": "Stem Splitter - OffgridStem",
+      "developer": "Tsz Fung Choi",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    },
+    {
+      "app_id": 6788967374,
+      "storefront": "us",
+      "name": "SoundLab - Stem Splitter",
+      "developer": "杏娣 吴",
+      "official_category": "Music",
+      "status": "not_reviewed",
+      "reason": "保留原始候选，本轮未深入核查",
+      "analyst_segments": [],
+      "source_urls": [
+        "https://itunes.apple.com/search?term=stem+splitter&country=us&media=software&entity=software&limit=30"
+      ]
+    }
+  ]
+}

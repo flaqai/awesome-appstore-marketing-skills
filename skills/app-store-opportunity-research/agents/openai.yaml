@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Store 应用机会分析"
+  short_description: "从关键词发现相关品类与应用，基于可追溯证据输出竞品矩阵和机会判断"
+  default_prompt: "使用 $app-store-opportunity-research 分析美国 App Store 的 ai music 应用，输出中文竞品调研报告和优先验证的方向。"

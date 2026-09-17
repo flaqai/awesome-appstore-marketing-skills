@@ -1,0 +1,138 @@
+{
+  "method": "Researcher notes from opened public pages; not raw webpage snapshots. Exact API request timestamps and hashes are in data/manifest.json.",
+  "sources": [
+    {
+      "source_id": "app-6480136315",
+      "url": "https://apps.apple.com/us/app/suno-ai-songs-music-lyrics/id6480136315",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "app-6482289804",
+      "url": "https://apps.apple.com/us/app/donna-ai-song-music-maker/id6482289804",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "app-6677033144",
+      "url": "https://apps.apple.com/us/app/mureka-ai-radio-music-maker/id6677033144",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "app-6447001239",
+      "url": "https://apps.apple.com/us/app/mytunes-ai-music-generator/id6447001239",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "app-6452017015",
+      "url": "https://apps.apple.com/us/app/banger-ai-music-generator/id6452017015",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "app-6511211165",
+      "url": "https://apps.apple.com/us/app/udio-ai-music-maker-studio/id6511211165",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "app-1515796612",
+      "url": "https://apps.apple.com/us/app/moises-the-musicians-app/id1515796612",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "app-1346247457",
+      "url": "https://apps.apple.com/us/app/endel-focus-sleep-sounds/id1346247457",
+      "accessed_on": "2026-09-17",
+      "source_type": "App Store public listing",
+      "used_for": [
+        "developer-declared features",
+        "visible in-app purchase product entries"
+      ],
+      "limitation": "Page may be cached. No purchase or device testing. IAP entries do not prove eligibility for every customer."
+    },
+    {
+      "source_id": "suno-v6",
+      "url": "https://help.suno.com/en/articles/13924481",
+      "accessed_on": "2026-09-17",
+      "source_updated_on": "2026-09-09",
+      "source_type": "Official help center",
+      "research_note": "Suno states pre-v6 models are retired; old songs remain; future iterations use v6. Editing support is declared, not tested."
+    },
+    {
+      "source_id": "suno-download-limits",
+      "url": "https://help.suno.com/en/articles/13926209",
+      "accessed_on": "2026-09-17",
+      "source_updated_on": "2026-09-09",
+      "source_type": "Official help center",
+      "research_note": "Ordinary song downloads: up to 7 lifetime free trial downloads; Pro 20/month, Premier 60/month; Studio exception. Not equivalent to generation credits."
+    },
+    {
+      "source_id": "suno-file-types",
+      "url": "https://help.suno.com/en/articles/13926081",
+      "accessed_on": "2026-09-17",
+      "source_updated_on": "2026-09-09",
+      "source_type": "Official help center",
+      "research_note": "MP3 on web/mobile; WAV for paid users on web; mobile defaults to MP3."
+    },
+    {
+      "source_id": "udio-download-restriction",
+      "url": "https://help.udio.com/en/articles/12683565-changes-associated-with-the-universal-music-group-umg-partnership",
+      "accessed_on": "2026-09-17",
+      "source_updated_on": "2026-02-17",
+      "source_type": "Official help center",
+      "research_note": "Official help states audio/video/stem downloading disabled, conflicting with current App Store description."
+    }
+  ],
+  "conflicts": [
+    {
+      "app_id": 6511211165,
+      "sources": [
+        "app-6511211165",
+        "udio-download-restriction"
+      ],
+      "resolution": "Keep export status conflicted; do not promise downloads without device verification."
+    }
+  ],
+  "retrieval_notes": [
+    "Initial bare-ID web opens for MyTunes and Banger failed; named app URLs resolved through web search. No API failures occurred."
+  ]
+}

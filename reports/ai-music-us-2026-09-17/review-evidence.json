@@ -1,0 +1,285 @@
+{
+  "method": "Manually read and selected supporting reviews; not exhaustive coding of the 250-review sample. Counts represent evidence subsets, not incidence rates or unique people. A review may appear in multiple themes.",
+  "themes": [
+    {
+      "theme_id": "instruction_consistency",
+      "theme": "指令与成品不一致",
+      "verified_subset_count": 11,
+      "app_count": 5,
+      "reviews": [
+        {
+          "review_id": "14547128644",
+          "app_id": "6480136315",
+          "rating": 1,
+          "updated": "2026-09-13T17:51:52-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6480136315/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14551149657",
+          "app_id": "6480136315",
+          "rating": 3,
+          "updated": "2026-09-14T19:43:26-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6480136315/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14532000822",
+          "app_id": "6482289804",
+          "rating": 2,
+          "updated": "2026-09-09T23:23:57-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6482289804/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14528914094",
+          "app_id": "6482289804",
+          "rating": 1,
+          "updated": "2026-09-09T05:08:34-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6482289804/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14009017547",
+          "app_id": "6677033144",
+          "rating": 2,
+          "updated": "2026-04-29T05:10:31-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14091135487",
+          "app_id": "6677033144",
+          "rating": 3,
+          "updated": "2026-05-21T17:29:00-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14195733219",
+          "app_id": "6677033144",
+          "rating": 2,
+          "updated": "2026-06-17T19:25:37-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "13817644488",
+          "app_id": "6677033144",
+          "rating": 2,
+          "updated": "2026-03-05T14:22:38-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14551034426",
+          "app_id": "6447001239",
+          "rating": 3,
+          "updated": "2026-09-14T18:55:30-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14548879209",
+          "app_id": "6447001239",
+          "rating": 2,
+          "updated": "2026-09-14T06:13:52-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14539233726",
+          "app_id": "6452017015",
+          "rating": 1,
+          "updated": "2026-09-11T19:06:26-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6452017015/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        }
+      ]
+    },
+    {
+      "theme_id": "duration_ending",
+      "theme": "时长与自然结尾",
+      "verified_subset_count": 4,
+      "app_count": 4,
+      "reviews": [
+        {
+          "review_id": "14551149657",
+          "app_id": "6480136315",
+          "rating": 3,
+          "updated": "2026-09-14T19:43:26-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6480136315/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14528914094",
+          "app_id": "6482289804",
+          "rating": 1,
+          "updated": "2026-09-09T05:08:34-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6482289804/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "13817644488",
+          "app_id": "6677033144",
+          "rating": 2,
+          "updated": "2026-03-05T14:22:38-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14545373745",
+          "app_id": "6447001239",
+          "rating": 3,
+          "updated": "2026-09-13T08:01:33-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        }
+      ]
+    },
+    {
+      "theme_id": "export_reliability",
+      "theme": "保存/分享可靠性",
+      "verified_subset_count": 3,
+      "app_count": 1,
+      "reviews": [
+        {
+          "review_id": "14549988533",
+          "app_id": "6447001239",
+          "rating": 1,
+          "updated": "2026-09-14T12:03:18-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14546333056",
+          "app_id": "6447001239",
+          "rating": 1,
+          "updated": "2026-09-13T12:44:08-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14552510313",
+          "app_id": "6447001239",
+          "rating": 4,
+          "updated": "2026-09-15T05:39:21-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        }
+      ]
+    },
+    {
+      "theme_id": "creation_workspace",
+      "theme": "创作版本管理被推荐内容打断",
+      "verified_subset_count": 1,
+      "app_count": 1,
+      "reviews": [
+        {
+          "review_id": "14553502770",
+          "app_id": "6480136315",
+          "rating": 1,
+          "updated": "2026-09-15T10:48:28-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6480136315/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        }
+      ]
+    },
+    {
+      "theme_id": "lyric_video",
+      "theme": "歌词视频与发布",
+      "verified_subset_count": 1,
+      "app_count": 1,
+      "reviews": [
+        {
+          "review_id": "14288044787",
+          "app_id": "6677033144",
+          "rating": 5,
+          "updated": "2026-07-10T17:01:46-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        }
+      ]
+    },
+    {
+      "theme_id": "emotional_value",
+      "theme": "创作满足感与家庭记忆",
+      "verified_subset_count": 5,
+      "app_count": 5,
+      "reviews": [
+        {
+          "review_id": "14531595211",
+          "app_id": "6452017015",
+          "rating": 5,
+          "updated": "2026-09-09T20:18:54-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6452017015/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14554809018",
+          "app_id": "6480136315",
+          "rating": 5,
+          "updated": "2026-09-15T19:05:24-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6480136315/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14550315951",
+          "app_id": "6482289804",
+          "rating": 5,
+          "updated": "2026-09-14T14:03:52-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6482289804/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14551550010",
+          "app_id": "6447001239",
+          "rating": 5,
+          "updated": "2026-09-14T22:54:04-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "13911872212",
+          "app_id": "6677033144",
+          "rating": 5,
+          "updated": "2026-04-01T13:16:28-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        }
+      ]
+    },
+    {
+      "theme_id": "cost_expectations",
+      "theme": "费用预期的具体反馈",
+      "verified_subset_count": 3,
+      "app_count": 3,
+      "reviews": [
+        {
+          "review_id": "14484503935",
+          "app_id": "6482289804",
+          "rating": 1,
+          "updated": "2026-08-28T20:45:34-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6482289804/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "14548879209",
+          "app_id": "6447001239",
+          "rating": 2,
+          "updated": "2026-09-14T06:13:52-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6447001239/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        },
+        {
+          "review_id": "13902992691",
+          "app_id": "6677033144",
+          "rating": 3,
+          "updated": "2026-03-30T03:58:39-07:00",
+          "source_url": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=6677033144/sortby=mostrecent/json",
+          "text_location": "data/reviews.json"
+        }
+      ]
+    }
+  ]
+}
