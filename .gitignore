@@ -1,3 +1,7 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Keep the AI Music example; ignore subsequent generated reports and data.
+/reports/*
+!/reports/ai-music-us-2026-09-17/

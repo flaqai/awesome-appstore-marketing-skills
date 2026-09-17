@@ -25,6 +25,8 @@ python3 skills/app-store-opportunity-research/scripts/collect_app_store.py \
 
 采集器输出候选应用、官方分类、原始响应及请求记录；相关性筛选、内购核实与机会分析由技能指导助手完成。更多参数见[数据采集说明](skills/app-store-opportunity-research/references/data-sources.md)。
 
+生成的报告及采集数据统一保存在 `reports/`。仓库保留 `reports/ai-music-us-2026-09-17/` 作为完整示例，包含报告及其引用的数据；后续调研请使用新目录，默认由 `.gitignore` 排除，仅保留在本地。
+
 运行采集逻辑检查：
 
 ```bash
